@@ -1,0 +1,8 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A modern weather dashboard providing current conditions, 7-day forecasts, and actionable planning insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
